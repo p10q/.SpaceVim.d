@@ -43,5 +43,10 @@ default_position = 'top'
 default_height = 30
 
 [[layers]]
+name = 'core'
+filetree_show_hidden = true
+enable_smooth_scrolling = false
+
+[[layers]]
 name = "lang#typescript"
 
